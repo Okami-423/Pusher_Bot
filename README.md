@@ -1,4 +1,4 @@
-# Pusher_Bot
+# SUMO_Bot
 Pusher Bot for Robo Sumo like events
 
 <img width="721" alt="Screenshot 2025-04-02 at 6 24 35 PM" src="https://github.com/user-attachments/assets/b16f9d1a-cf17-448b-8d4a-39d13ac6bb01" />
